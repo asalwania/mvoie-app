@@ -14,8 +14,8 @@ This is a React 18 application built using Vite. The project utilizes environmen
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/asalwania/mvoie-app.git
+   cd mvoie-app
 2. **Add Environment Variables**
 
    Create a `.env.local` file in the root directory of the project and add the following variables:
@@ -33,7 +33,7 @@ This is a React 18 application built using Vite. The project utilizes environmen
    ```bash
    npm install
    ```
-   
+
 4. **Run the Development Server**
 
    Start the development server with:
